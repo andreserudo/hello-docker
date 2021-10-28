@@ -7,7 +7,9 @@ Esse foi um desafio realizado no curso do [Full Cycle](https://fullcycle.com.br/
 
 ## Será que está funcionando?
 
-Para rodar a aplicação clone esse repositório e na pasta você precisará rodar os comandos:
+Você pode executar enquanto o docker ainda não excluiu a imagem comn o comando: `docker run andreserudo/codeeducation` <br>
+
+Mas você também pode clonar esse repositório e seguir os passos:
 
 1 - Para criar a imagem docker: `docker build -t andreserudo/codeeducation .` <br>
 2 - Para executar a imagem: `docker run andreserudo/codeeducation` <br>
