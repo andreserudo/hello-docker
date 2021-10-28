@@ -7,7 +7,7 @@ Esse foi um desafio realizado no curso do [Full Cycle](https://fullcycle.com.br/
 
 ## Será que está funcionando?
 
-Você pode executar enquanto o docker ainda não excluiu a imagem comn o comando: `docker run andreserudo/codeeducation` <br>
+Você pode executar enquanto o docker ainda não excluiu a imagem com o comando: `docker run andreserudo/codeeducation` <br>
 
 Mas você também pode clonar esse repositório e seguir os passos:
 
